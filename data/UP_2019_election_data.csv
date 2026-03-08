@@ -1,0 +1,31 @@
+constituency,state,year,party,candidate,votes,total_votes,vote_share_pct,winner
+Kairana,UP,2019,BJP,Pradeep Kumar,524845,948752,55.32,True
+Kairana,UP,2019,BSP,Tabassum Hasan,376049,948752,39.64,False
+Kairana,UP,2019,INC,Harendra Agarwal,47858,948752,5.04,False
+Amethi,UP,2019,BJP,Smriti Irani,468514,931690,50.29,True
+Amethi,UP,2019,INC,Rahul Gandhi,413394,931690,44.37,False
+Amethi,UP,2019,BSP,Chhoteylal,49782,931690,5.34,False
+Gorakhpur,UP,2019,BJP,Ravi Kishan,569049,1022335,55.66,True
+Gorakhpur,UP,2019,SP,Ram Bhual Nishad,420739,1022335,41.15,False
+Gorakhpur,UP,2019,INC,Madhusudan Tripathi,32547,1022335,3.18,False
+Sultanpur,UP,2019,BJP,Maneka Gandhi,503156,993457,50.65,True
+Sultanpur,UP,2019,BSP,Chandra Bhadra Singh,398862,993457,40.15,False
+Sultanpur,UP,2019,INC,Sanjay Sinh,91439,993457,9.2,False
+Lucknow,UP,2019,BJP,Rajnath Singh,632649,998353,63.37,True
+Lucknow,UP,2019,SP,Poonam Sinha,347302,998353,34.79,False
+Lucknow,UP,2019,INC,Acharya Pramod,18402,998353,1.84,False
+Varanasi,UP,2019,BJP,Narendra Modi,674664,1022371,65.99,True
+Varanasi,UP,2019,SP,Shalini Yadav,195159,1022371,19.09,False
+Varanasi,UP,2019,INC,Ajay Rai,152548,1022371,14.92,False
+Moradabad,UP,2019,SP,ST Hasan,489641,1028351,47.61,True
+Moradabad,UP,2019,BJP,Kunwar Sarvesh Kumar,478836,1028351,46.56,False
+Moradabad,UP,2019,INC,Imran Pratapgarhi,59874,1028351,5.82,False
+Saharanpur,UP,2019,BJP,Raghav Lakhanpal,498082,1030075,48.35,True
+Saharanpur,UP,2019,BSP,Fazlur Rahman,434922,1030075,42.22,False
+Saharanpur,UP,2019,INC,Imran Masood,97071,1030075,9.42,False
+Azamgarh,UP,2019,BJP,Dinesh Lal Yadav,471548,990857,47.59,True
+Azamgarh,UP,2019,SP,Akhilesh Yadav,456293,990857,46.05,False
+Azamgarh,UP,2019,BSP,Shah Alam,63016,990857,6.36,False
+Prayagraj,UP,2019,BJP,Rita Bahuguna Joshi,555824,944275,58.86,True
+Prayagraj,UP,2019,SP,Rajendra Singh Patel,303659,944275,32.16,False
+Prayagraj,UP,2019,INC,Yogesh Shukla,84792,944275,8.98,False
